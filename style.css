@@ -1,0 +1,34 @@
+body {
+    background-color: #ff00ff; /* Rosa choque pra zoeira */
+    font-family: 'Comic Sans MS', cursive; /* Fonte tosca */
+    text-align: center;
+    color: #00ff00; /* Verde limão */
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    font-size: 3em;
+    text-shadow: 3px 3px #000;
+    margin-bottom: 20px;
+}
+button {
+    background-color: #ff0000; /* Vermelho berrante */
+    color: white;
+    font-size: 1.5em;
+    padding: 15px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: transform 0.2s;
+}
+button:hover {
+    transform: scale(1.2); /* Botão cresce ao passar o mouse */
+}
+#piada {
+    font-size: 2em;
+    margin-top: 20px;
+    color: #ffff00; /* Amarelo gritante */
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo escuro pra destacar */
+    padding: 10px;
+    border-radius: 5px;
+}
