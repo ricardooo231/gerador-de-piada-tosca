@@ -1,4 +1,15 @@
 body {
     background-image: url('https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif');
+    background-size: cover; /* Faz o GIF cobrir a tela */
+    background-position: center; /* Centraliza o GIF */
+    background-repeat: no-repeat; /* Evita repetição do GIF */
+    font-family: 'Comic Sans MS', cursive; /* Mantém a fonte tosca */
+    text-align: center;
+    color: #00ff00; /* Verde limão */
+    margin: 0;
+    padding: 20px;
+}
+    background-image: url('https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif');
     background-size: cover;
+
 }
